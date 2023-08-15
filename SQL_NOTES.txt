@@ -1,0 +1,16 @@
+SQL Structured Query Language
+
+Database = Collection of data 
+
+DATABASE MANAGEMENT SYSTEM  
+C  Create
+R  Read
+U  Update
+D  Delete
+
+Memory managemet 
+And
+
+Types of Database
+RDBMS - Relational Data Base Management System
+Relation Database = Table format 
